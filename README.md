@@ -9,5 +9,6 @@ Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ce
 - :computer: : Data Sciente, Machine Learning e Deep Learning (pandas, scipy, numpy, matplotlib, seaborn, scikit-learn, tensorflow, keras, dentre outras bibliotecas e
 frameworks)
 
+Para conhecer os projetos que desenvolvo, por favor visite meu site pessoal através do link abaixo:
 > :octocat: [olavomendes.github.io](https://olavomendes.github.io/)
 
