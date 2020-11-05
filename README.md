@@ -5,7 +5,7 @@
 ## Olá
 Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ceará com grande interesse em Data Science, Machine Learning, Deep Learning e Arduino.
 
-- <b>Cargo atual</b>: Desenvolvedor Backend na [Aikont].(https://www.facebook.com/Aikont-Gest%C3%A3o-Cont%C3%A1bil-e-Financeira-257445300973383/)
+- <b>Cargo atual</b>: Desenvolvedor Backend na [Aikont.](https://www.facebook.com/Aikont-Gest%C3%A3o-Cont%C3%A1bil-e-Financeira-257445300973383/)
 - <b>Áreas de Conhecimento </b>: Data Sciente, Machine Learning, Deep Learning (pandas, scipy, numpy, matplotlib, seaborn, scikit-learn, tensorflow, keras, dentre outras bibliotecas e
 frameworks) além de Arduino e backend utilizando NodeJS e TypeScript.
 
