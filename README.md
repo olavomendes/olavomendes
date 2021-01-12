@@ -5,8 +5,19 @@
 ## Olá
 Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ceará com grande interesse em Data Science, Machine Learning, Deep Learning e Arduino.
 
-- <b>Cargo atual</b>: Desenvolvedor Backend na [Aikont.](https://www.facebook.com/Aikont-Gest%C3%A3o-Cont%C3%A1bil-e-Financeira-257445300973383/)
-- <b>Áreas de Conhecimento </b>: Data Sciente e Machine Learning (Python, Pandas, Scipy, Numpy, Matplotlib, Seaborn, Scikit-learn, dentre outros) | Deep Learning (Tensorflow, Keras e Pytorch) | Backend (Python, NodeJS eTypeScript) | Eletrônica (Arduino e ESP8266).
+- <b>Cargo atual</b>:
+
+| Desenvolvedor Backend na [Aikont.](https://www.facebook.com/Aikont-Gest%C3%A3o-Cont%C3%A1bil-e-Financeira-257445300973383/)
+
+- <b>Áreas de Conhecimento </b>: 
+
+| Data Sciente e Machine Learning (Python, Pandas, Scipy, Numpy, Matplotlib, Seaborn, Scikit-learn, dentre outros) 
+
+| Deep Learning (Tensorflow, Keras e Pytorch) 
+
+| Desenvolvimento Backend (Python, NodeJS e TypeScript) 
+
+| Eletrônica (Arduino e ESP8266).
 
 **IMPORTANTE:** Para conhecer os projetos que desenvolvo, por favor visite meu site pessoal através do link abaixo:
 >:octocat: [olavomendes.github.io](https://olavomendes.github.io/) 
