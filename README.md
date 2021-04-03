@@ -3,7 +3,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/olavomendes)](https://www.kaggle.com/olavomendes)
 
 ## Olá
-Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ceará com grande interesse em Data Science, Machine Learning, Deep Learning e Arduino.
+Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ceará com grande interesse em Data Science, Machine Learning, Deep Learning, Eletrônica, Mecânica e Arduino.
 
 - <b>Cargo atual</b>:
 
@@ -13,7 +13,7 @@ Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ce
 
 | Data Sciente e Machine Learning (Python, Pandas, Scipy, Numpy, Matplotlib, Seaborn, Scikit-learn, dentre outros) 
 
-| Deep Learning (Tensorflow, Keras e Pytorch) 
+| Deep Learning (Tensorflow, Keras, Pytorch e OpenCV) 
 
 | Desenvolvimento Backend (Python, NodeJS e TypeScript) 
 
