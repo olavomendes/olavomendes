@@ -19,6 +19,8 @@ Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ce
 
 | Eletrônica (Arduino e ESP8266).
 
-**IMPORTANTE:** Para conhecer os projetos que desenvolvo, por favor visite meu site pessoal através do link abaixo:
+**IMPORTANTE:** Para conhecer outros projetos que desenvolvo, por favor visite meu site pessoal e GitLab através dos links abaixo:
 >:octocat: [olavomendes.github.io](https://olavomendes.github.io/) 
+
+>:large_orange_diamond: [GitLab - Olavo Mendes](https://gitlab.com/olavomendes)
 
