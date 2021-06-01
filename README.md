@@ -15,7 +15,7 @@ Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ce
 
 | Deep Learning (Tensorflow, Keras, Pytorch e OpenCV) 
 
-| Desenvolvimento Backend (Python, NodeJS e TypeScript) 
+| Desenvolvimento Backend (Python, Django REST Framework, NodeJS e TypeScript) 
 
 | Eletrônica (Arduino e ESP8266).
 
