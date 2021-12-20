@@ -3,7 +3,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/olavomendes)](https://www.kaggle.com/olavomendes)
 
 ## Olá
-Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ceará com grande interesse em Data Science, Machine Learning, Deep Learning, Eletrônica, Mecânica e Arduino.
+Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ceará com grande interesse em desenvolvimento Backend, Deep Learning, Eletrônica, Mecânica e Arduino.
 
 - <b>Cargo atual</b>:
 
@@ -11,13 +11,29 @@ Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ce
 
 - <b>Áreas de Conhecimento </b>: 
 
-| Data Sciente e Machine Learning (Python, Pandas, Scipy, Numpy, Matplotlib, Seaborn, Scikit-learn, dentre outros) 
+| LINGUAGENS DE PROGRAMAÇÃO: Javascript (NodeJS)/Typescript, Python e C;
 
-| Deep Learning (Tensorflow, Keras, Pytorch e OpenCV) 
+| BANCO DE DADOS: MySQL, Postgres, MongoDB;
 
-| Desenvolvimento Backend (Python, Django REST Framework, NodeJS e TypeScript) 
+| VERSIONAMENTO DE CÓDIGO: GitFlow;
 
-| Eletrônica (Arduino e ESP8266).
+| FERRAMENTAS VERSIONAMENTO DE CÓDIGO: Git (GitHub, GitLab);
+
+| FERRAMENTAS DE TESTE: Jest;
+
+| FRAMEWORKS: Express, Django;
+
+| FERRAMENTAS DE VIRTUALIZAÇÃO: Docker;
+
+| METODOLOGIAS ÁGEIS: Pair Programming, Scrum;
+
+| ANÁLISE DE DADOS: Seaborn, Matplotlib, Altair;
+
+| MACHINE LEARNING: Scikit-learn;
+
+| DEEP LEARNING: Tensorflow, Keras, Pytorch, OpenCV;
+
+| ELETRÔNICA: Arduino, ESP8266.
 
 **IMPORTANTE:** Para conhecer outros projetos que desenvolvo, por favor visite meu site pessoal e GitLab através dos links abaixo:
 >:octocat: [olavomendes.github.io](https://olavomendes.github.io/) 
