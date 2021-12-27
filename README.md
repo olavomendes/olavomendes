@@ -7,7 +7,7 @@ Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ce
 
 - <b>Cargo atual</b>:
 
-| Desenvolvedor Backend na [Aikont.](https://www.facebook.com/Aikont-Gest%C3%A3o-Cont%C3%A1bil-e-Financeira-257445300973383/)
+| Desenvolvedor Backend na [NTT Data.](https://nttdata-solutions.com/br/carreira-na-nttdata/)
 
 - <b>Áreas de Conhecimento </b>: 
 
