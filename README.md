@@ -1,6 +1,8 @@
 ### Olavo Mendes
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olavo-mendes/)](https://www.linkedin.com/in/olavo-mendes/)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/olavomendes)](https://www.kaggle.com/olavomendes)
+[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://olavomendes.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavo-mendes/)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/olavomendes)
+
 
 ---
 
@@ -33,6 +35,7 @@ Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ce
 <h4>Testes:</h4>
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 <h4>Frameworks:</h4>
 
