@@ -2,12 +2,13 @@
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://olavomendes.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olavo-mendes/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/olavomendes)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/olavomendes)
 
 
 ---
 
 <h3> 👨🏻‍💻 &nbsp;Sobre </h3>
-Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ceará com grande interesse em desenvolvimento Backend, Deep Learning, Mecânica e Eletrônica com Arduino.
+Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ceará com grande interesse em desenvolvimento Backend, Deep Learning, Computer Vision, Eletrônica, Mecânica e Arduino.
 
 ---
 
@@ -45,11 +46,4 @@ Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ce
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
----
-
-Para conhecer outros projetos que desenvolvo, por favor visite meu site pessoal e GitLab através dos links abaixo:
->:octocat: [olavomendes.github.io](https://olavomendes.github.io/) 
-
->:large_orange_diamond: [GitLab - Olavo Mendes](https://gitlab.com/olavomendes)
 
