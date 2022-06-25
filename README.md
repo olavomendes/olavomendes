@@ -8,7 +8,7 @@
 ---
 
 <h3> 👨🏻‍💻 &nbsp;Sobre </h3>
-Desenvolvedor Backend Pleno na **Cognizant** com cerca de 2 anos de experiência em desenvolvimento Backend, Machine Learning, Deep Learning, Computer Vision, Eletrônica, e Arduino.
+Desenvolvedor Backend Pleno na Cognizant com cerca de 2 anos de experiência em desenvolvimento Backend, Machine Learning, Deep Learning, Computer Vision, Eletrônica, e Arduino.
 
 ---
 
