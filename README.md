@@ -8,7 +8,7 @@
 ---
 
 <h3> 👨🏻‍💻 &nbsp;Sobre </h3>
-Sou estudante do curso de Sistemas de Informação da Universidade Federal do Ceará com grande interesse em desenvolvimento Backend, Deep Learning, Computer Vision, Eletrônica, Mecânica e Arduino.
+Sou graduando do curso de Sistemas de Informação da Universidade Federal do Ceará com cerca de 2 anos de experiência em desenvolvimento Backend, Machine Learning, Deep Learning, Computer Vision, Eletrônica, e Arduino.
 
 ---
 
