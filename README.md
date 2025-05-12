@@ -7,14 +7,14 @@
 
 ---
 
-<h3> 👨🏻‍💻 &nbsp;Sobre </h3>
-Desenvolvedor Backend Pleno na Cognizant com cerca de 2 anos de experiência em desenvolvimento com Node, Machine Learning, Deep Learning, Computer Vision, Eletrônica, e Arduino.
+<h3> About </h3>
+I am a backend developer with over 5 years of experience in Node.js/TypeScript and Python, with expertise in Machine Learning, Deep Learning, and Computer Vision. I also have expertise in electronics, robotics, and science fiction writing.
 
 ---
 
-<h3> 🛠 &nbsp;Áreas de conhecimento</h3>
+<h3> Skills </h3>
 
-<h4>Linguagens e afins:</h4>
+<h4>Programming:</h4>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -22,7 +22,7 @@ Desenvolvedor Backend Pleno na Cognizant com cerca de 2 anos de experiência em 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<h4>Tecnologias:</h4>
+<h4>Tools:</h4>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
