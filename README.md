@@ -8,7 +8,7 @@
 ---
 
 <h3> About </h3>
-I am a backend developer with over 5 years of experience in Node.js/TypeScript and Python, with expertise in Machine Learning, Deep Learning, and Computer Vision. I also have expertise in electronics, robotics, and science fiction writing.
+I am a **backend** developer with over 5 years of experience in Node.js/TypeScript and Python, with expertise in Machine Learning, Deep Learning, and Computer Vision. I also have expertise in electronics, robotics, and science fiction writing.
 
 ---
 
